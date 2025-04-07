@@ -15,7 +15,7 @@ Passionate about AI in Healthcare, BCI, and building useful software.
 
 ## 🚀 Projects
 
-### 🔹 [Capstone Project: GitHub Chrome Extension](capstone.md){:target="_blank"}
+### 🔹 [Capstone Project: GitHub Chrome Extension](/capstone){:target="_blank"}
 Create GitHub comments directly via a Chrome Extension using GitHub’s REST API.  
 My role: Backend API Developer.
 
