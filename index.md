@@ -1,24 +1,25 @@
----
-title: "Ali Vaziri - Portfolio"
----
+# Ali Vaziri
 
-# Hi, I'm Ali Vaziri
+I am a Master’s student in Software Engineering at Stevens Institute of Technology (expected May 2025). My interests include applying artificial intelligence in healthcare, exploring brain-computer interfaces (BCI) and advanced signal processing techniques, and developing useful software systems that solve real-world problems.
 
-M.S. Software Engineering student at Stevens Institute of Technology.  
-Passionate about AI in Healthcare, BCI, and building useful software.
+## Contact
 
-📄 [View My CV](https://github.com/AliVaziri1999/AliVaziri1999/raw/main/AliVaziri_CV.pdf){:target="_blank"}  
-✉️ [Email me](mailto:avaziri1@stevens.edu)  
-🔗 [GitHub](https://github.com/AliVaziri1999) | [LinkedIn](https://linkedin.com/in/alivaziri-career)
+- <a href="AliVaziri_CV_2025.pdf" target="_blank">Download CV (PDF)</a>
+- Email: <a href="mailto:avaziri1@stevens.edu">avaziri1@stevens.edu</a>
+- <a href="https://github.com/AliVaziri1999" target="_blank">GitHub</a>
+- <a href="https://www.linkedin.com/in/alivaziri-career/" target="_blank">LinkedIn</a>
 
----
+## Projects
 
-## 🚀 Projects
+- **<a href="/capstone" target="_blank">Capstone Project: GitHub Chrome Extension</a>** – Developed a Chrome extension (CommitPro) to enhance the GitHub interface, providing additional tools for commit management and improving developer productivity.
+- **<a href="/bci" target="_blank">Research Assistant at Brain-Computer Interface Lab</a>** – Conducted research on EEG signal processing for brain-computer interface (BCI) applications.
+- **<a href="/seclub" target="_blank">Research Assistant at Software Engineering Club</a>** – Built a software solution using an FTDI 245R chipset to convert user input text into visual patterns on an oscilloscope, integrating signal processing with hardware communication techniques.
+- **<a href="/bordbaar" target="_blank">Software Developer Intern at Bordbaar Intelligent Transporters</a>** – Designed and developed a mobile application for on-demand goods and heavy-truck transportation, improving logistics efficiency and fleet management.
+- **<a href="/drone" target="_blank">Drone Optimization Project at Sharif University of Technology</a>** – Developed and optimized algorithmic models for drones using C# on a Linux (Ubuntu) platform to enhance flight performance.
 
-### 🔹 [Capstone Project: GitHub Chrome Extension](/capstone){:target="_blank"}
-Create GitHub comments directly via a Chrome Extension using GitHub’s REST API.  
-My role: Backend API Developer.
+## Publications
 
----
-
-This webpage will updated soon!
+- <a href="#" target="_blank">A New Algorithm for Indoor Robot Localization using Turning Function</a> (Published Dec 2024)
+- <a href="#" target="_blank">Development of Service Compositions in Cloud Manufacturing Processes Based on System Sustainability Components</a> (Published Jan 2024)
+- <a href="#" target="_blank">Identification and Detection of Ferroresonance Phenomenon in Active Distribution Networks Using Long Short-Term Memory Neural Networks Enhanced by Genetic Algorithm</a> (Work in progress)
+- <a href="#" target="_blank">Energy-Efficient Secure Cell-Free Massive MIMO for Internet of Things: A Hybrid CNN-LSTM-Based Deep Learning Approach</a> (Work in progress)
