@@ -4,10 +4,11 @@ I am a Master’s student in Software Engineering at Stevens Institute of Techno
 
 ## Contact
 
-- <a href="AliVaziri_CV_2025.pdf" target="_blank">Download CV (PDF)</a>
+<a href="/AliVaziri_CV_2025.pdf" download="Ali_Vaziri_CV.pdf">Download CV (PDF)</a>
 - Email: <a href="mailto:avaziri1@stevens.edu">avaziri1@stevens.edu</a>
 - <a href="https://github.com/AliVaziri1999" target="_blank">GitHub</a>
 - <a href="https://www.linkedin.com/in/alivaziri-career/" target="_blank">LinkedIn</a>
+- <a href="https://www.researchgate.net/profile/Ali-Vaziri-4/research" target="_blank">ResearchGate</a>
 
 ## Projects
 
