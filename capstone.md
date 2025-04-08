@@ -1,5 +1,3 @@
-Great! I’ll generate a Jekyll-compatible blog post in Markdown format with a clean layout and placeholders for screenshots. It will be styled with standard Jekyll post structure and designed to render beautifully on your GitHub Pages site at `/capstone`. I’ll get that ready for you shortly!
-
 ---
 layout: post
 title: "Commit Pro – Development Journey and Lessons Learned"
