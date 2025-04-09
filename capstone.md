@@ -172,4 +172,3 @@ As we wrap up this capstone project, I feel proud of what our team accomplished 
 
 Commit Pro started as an academic project, but we envision it evolving into a practical tool that developers can rely on in real-world projects. The coming months may see us turning this prototype into a polished product. No matter what, the story of Commit Pro – and my journey in building it – will remain a highlight of my final year in university. 
 
-**Thank you for reading!** If you’re interested in Commit Pro or have suggestions, feel free to reach out or check out the project’s repository. This project has shown me the impact that a small, focused team can make, and I’m excited to apply these learnings to future endeavors.
