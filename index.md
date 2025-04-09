@@ -9,7 +9,9 @@ I am a Master’s student in Software Engineering at Stevens Institute of Techno
 - Career Email: <a href="mailto:alivaziri.career@gmail.com">alivaziri.career@gmail.com</a>
 - <a href="https://github.com/AliVaziri1999" target="_blank">GitHub</a>
 - <a href="https://www.linkedin.com/in/alivaziri-career/" target="_blank">LinkedIn</a>
+- <a href="https://scholar.google.com/citations?hl=en&user=pMkQPE4AAAAJ" target="_blank">Google Scholar</a>
 - <a href="https://www.researchgate.net/profile/Ali-Vaziri-4/research" target="_blank">ResearchGate</a>
+- <a href="https://sciprofiles.com/profile/Ali-Vaziri" target="_blank">SciProfiles</a>
 
 ## Projects
 
@@ -21,7 +23,7 @@ I am a Master’s student in Software Engineering at Stevens Institute of Techno
 
 ## Publications
 
-- <a href="#" target="_blank">A New Algorithm for Indoor Robot Localization using Turning Function</a> (Published Dec 2024)
-- <a href="#" target="_blank">Development of Service Compositions in Cloud Manufacturing Processes Based on System Sustainability Components</a> (Published Jan 2024)
-- <a href="#" target="_blank">Identification and Detection of Ferroresonance Phenomenon in Active Distribution Networks Using Long Short-Term Memory Neural Networks Enhanced by Genetic Algorithm</a> (Work in progress)
+- <a href="#" target="_blank">Identification and Detection of Ferroresonance Phenomenon in Active Distribution Networks Using Long Short-Term Memory Neural Networks Enhanced by Genetic Algorithm</a> (Published 2025)
+- <a href="#" target="_blank">A New Algorithm for Indoor Robot Localization using Turning Function</a> (Published 2024)
+- <a href="#" target="_blank">Development of Service Compositions in Cloud Manufacturing Processes Based on System Sustainability Components</a> (Published 2023)
 - <a href="#" target="_blank">Energy-Efficient Secure Cell-Free Massive MIMO for Internet of Things: A Hybrid CNN-LSTM-Based Deep Learning Approach</a> (Work in progress)
