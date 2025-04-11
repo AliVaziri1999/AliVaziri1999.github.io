@@ -23,7 +23,7 @@ I am a Master’s student in Software Engineering at Stevens Institute of Techno
 
 ## Publications
 
+- <a href="#" target="_blank">Energy-Efficient Secure Cell-Free Massive MIMO for Internet of Things: A Hybrid CNN-LSTM-Based Deep Learning Approach</a> (Published 2025)
 - <a href="#" target="_blank">Identification and Detection of Ferroresonance Phenomenon in Active Distribution Networks Using Long Short-Term Memory Neural Networks Enhanced by Genetic Algorithm</a> (Published 2025)
 - <a href="#" target="_blank">A New Algorithm for Indoor Robot Localization using Turning Function</a> (Published 2024)
 - <a href="#" target="_blank">Development of Service Compositions in Cloud Manufacturing Processes Based on System Sustainability Components</a> (Published 2023)
-- <a href="#" target="_blank">Energy-Efficient Secure Cell-Free Massive MIMO for Internet of Things: A Hybrid CNN-LSTM-Based Deep Learning Approach</a> (Work in progress)
