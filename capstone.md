@@ -8,7 +8,8 @@ As part of my senior capstone project, I contributed to **Commit Pro**, a team-b
 
 Our goal was to streamline development workflows by embedding intelligent, actionable insights directly within the GitHub experience. This blog summarizes the purpose of the project, our technical design, my specific contributions (focused on frontend engineering), and key lessons learned.
 
-![Commit Pro GitHub Integration](screenshot1.png)
+![Commit Pro GitHub Integration](capstone_images/screenshot1-1.png)
+![Commit Pro GitHub Integration](capstone_images/screenshot1-2.png)
 
 ## Project Overview
 
@@ -21,7 +22,7 @@ Commit Pro addresses the long-standing issue of poor commit message quality in s
 - **React-based Dashboard** for displaying code quality metrics  
 - **Secure Token Management** and API interactions with GitHub and LLM providers  
 
-![Feature Summary Diagram](screenshot9.png)
+![Feature Summary Diagram](capstone_images/screenshot9.png)
 
 ## Literature Review
 
@@ -39,14 +40,14 @@ I was primarily responsible for building the React dashboard inside the Chrome e
 - Defined API contracts with the backend team.
 - Created routing using `react-router-dom` and dummy chart placeholders.
 
-![Code Repository Setup](screenshot5.png)
+![Code Repository Setup](capstone_images/screenshot5.png)
 
 ## Sprint 2: Component Development
 
 - Built modular chart components for LOC, CC, and CBO using mock data.
 - Created reusable tab UI layout and integrated dummy filtering mechanisms.
 
-![LOC and Complexity Chart Prototype](screenshot2.png)
+![LOC and Complexity Chart Prototype](capstone_images/screenshot2.png)
 
 ## Sprint 3: Backend Integration & UI Polish
 
@@ -55,7 +56,7 @@ I was primarily responsible for building the React dashboard inside the Chrome e
 - Added dropdowns, sliders, and `TrendHistoryChart` with consistent logic.
 - Handled edge cases with missing values and added loading UIs.
 
-![TrendHistory Chart in Dashboard](screenshot3.png)
+![TrendHistory Chart in Dashboard](capstone_images/screenshot3.png)
 
 ## Sprint 4: Final Polish, Dynamic Integration & Presentation Prep
 
@@ -65,7 +66,7 @@ I was primarily responsible for building the React dashboard inside the Chrome e
 - Once received, dynamically connected the dashboard to real output files.
 - Removed hardcoded samples and converted the entire dashboard to **live, backend-powered data**.
 
----
+<!-- ---
 
 ## Dashboard Preview
 
@@ -73,13 +74,13 @@ Example of embedded dashboard inside GitHub:
 
 ![Dashboard Embedded Preview](screenshot6.png)
 
----
+--- -->
 
 ## Agile Process & Team Coordination
 
 We used **Agile Scrum** with Jira boards and weekly standups. Although I focused on front-end, I collaborated frequently with backend and extension developers. Overleaf was used for shared documentation, and GitHub was used for branching, reviews, and pull requests.
 
-![Jira Board Screenshot](screenshot4.png)
+<!-- ![Jira Board Screenshot](screenshot4.png) -->
 
 ---
 
@@ -87,11 +88,14 @@ We used **Agile Scrum** with Jira boards and weekly standups. Although I focused
 
 ### Tab Navigation  
 Allows navigation between code metrics  
-![Tab Navigation UI](screenshot7.png)
+![Tab Navigation UI](capstone_images/screenshot7-1.png)
+![Tab Navigation UI](capstone_images/screenshot7-2.png)
+![Tab Navigation UI](capstone_images/screenshot7-3.png)
+![Tab Navigation UI](capstone_images/screenshot7-4.png)
 
 ### Coupling Chart View  
 Compares cohesion and coupling by class or commit  
-![Coupling Chart Screenshot](screenshot8.png)
+![Coupling Chart Screenshot](capstone_images/screenshot8.png)
 
 ---
 
