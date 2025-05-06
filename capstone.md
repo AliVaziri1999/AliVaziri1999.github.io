@@ -1,4 +1,4 @@
-# Commit Pro – Capstone Blog  
+# Commit Pro 
 **Author: Ali Vaziri**  
 **Role: Frontend Developer, Capstone Spring 2025, Stevens Institute of Technology**
 
