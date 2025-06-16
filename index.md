@@ -1,17 +1,18 @@
 # Ali Vaziri
 
-I am a Master’s student in Software Engineering at Stevens Institute of Technology (expected May 2025). My interests include applying artificial intelligence in healthcare, exploring brain-computer interfaces (BCI) and advanced signal processing techniques, and developing useful software systems that solve real-world problems.
+Hi, I’m Ali, a software engineer with a keen interest in research aimed at developing intelligent systems that connect data with real-world applications. I earned my Master’s degree in Software Engineering from Stevens Institute of Technology (2023–2025) and a Bachelor’s degree in Computer Engineering from Azad University, Tehran (2017–2022). My research concentrates on optimization and AI-driven signal processing, particularly within intricate engineering and computational systems. I am especially focused on leveraging AI techniques to improve signal analysis, enhance decision-making, and optimize engineering systems.
 
 ## Contact
 
 - <a href="/AliVaziri_CV_2025.pdf" download="Ali_Vaziri_CV.pdf">Download CV (PDF)</a>
-- Academic Email: <a href="mailto:avaziri1@stevens.edu">avaziri1@stevens.edu</a>
+- Academic Email: <a href="mailto:alivaziri.edu@gmail.com">alivaziri.edu@gmail.com</a>
 - Career Email: <a href="mailto:alivaziri.career@gmail.com">alivaziri.career@gmail.com</a>
+- Affiliation Email-Stevens: <a href="mailto:avaziri1@stevens.edu">avaziri1@stevens.edu</a>
 - <a href="https://github.com/AliVaziri1999" target="_blank">GitHub</a>
 - <a href="https://www.linkedin.com/in/alivaziri-career/" target="_blank">LinkedIn</a>
 - <a href="https://scholar.google.com/citations?hl=en&user=pMkQPE4AAAAJ" target="_blank">Google Scholar</a>
 - <a href="https://www.researchgate.net/profile/Ali-Vaziri-4/research" target="_blank">ResearchGate</a>
-- <a href="https://sciprofiles.com/profile/Ali-Vaziri" target="_blank">SciProfiles</a>
+<!-- - <a href="https://sciprofiles.com/profile/Ali-Vaziri" target="_blank">SciProfiles</a> -->
 
 ## Projects
 
