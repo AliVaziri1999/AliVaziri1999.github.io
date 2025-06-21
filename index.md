@@ -5,7 +5,7 @@ Hi, I’m Ali, a software engineer with a keen interest in research aimed at dev
 ## Contact
 
 - <a href="/AliVaziri_CV_2025.pdf" download="Ali_Vaziri_CV.pdf">Download CV (PDF)</a>
-- Academic Email: <a href="mailto:alivaziri.edu@gmail.com">alivaziri.edu@gmail.com</a>
+- Academic Email: <a href="mailto:alivaziri.academic@gmail.com">alivaziri.academic@gmail.com</a>
 - Career Email: <a href="mailto:alivaziri.career@gmail.com">alivaziri.career@gmail.com</a>
 - Affiliation Email-Stevens: <a href="mailto:avaziri1@stevens.edu">avaziri1@stevens.edu</a>
 - <a href="https://github.com/AliVaziri1999" target="_blank">GitHub</a>
