@@ -29,5 +29,5 @@ Hi, I’m Ali, interested in research that connects data-driven modeling, optimi
 <!-- - <a href="#" target="_blank">Identification and Detection of Ferroresonance Phenomenon in Active Distribution Networks Using Long Short-Term Memory Neural Networks Enhanced by Genetic Algorithm</a> (Published 2025) -->
 - <a href="#" target="_blank">A New Algorithm for Indoor Robot Localization using Turning Function</a> (Published 2024)
 - <a href="#" target="_blank">Development of Service Compositions in Cloud Manufacturing Processes Based on System Sustainability Components</a> (Published 2023)
-- <a href="#" target="_blank">Commit Pro - A chrome extension for AI-powered commit messages and repository analysis</a> (Under preparation)
-- <a href="#" target="_blank">Generative Adversarial and Transformer Network Synergy for Robust Intrusion Detection in IoT Environments</a> (Under preparation)
+<!-- - <a href="#" target="_blank">Commit Pro - A chrome extension for AI-powered commit messages and repository analysis</a> (Under preparation)
+- <a href="#" target="_blank">Generative Adversarial and Transformer Network Synergy for Robust Intrusion Detection in IoT Environments</a> (Under preparation) -->
