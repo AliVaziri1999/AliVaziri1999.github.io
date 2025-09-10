@@ -1,6 +1,6 @@
 # Ali Vaziri
 
-Hi, I’m Ali, a software engineer with a keen interest in research aimed at developing intelligent systems that connect data with real-world applications. I earned my Master’s degree in Software Engineering from Stevens Institute of Technology (2023–2025) and a Bachelor’s degree in Computer Engineering from Azad University, Tehran (2017–2022). My research concentrates on optimization and AI-driven signal processing, particularly within intricate engineering and computational systems. I am especially focused on leveraging AI techniques to improve signal analysis, enhance decision-making, and optimize engineering systems.
+Hi, I’m Ali, interested in research that connects data-driven modeling, optimization, and autonomous systems. I focus on building scalable algorithms for robotics and dynamical systems, where I’ve tackled challenges in collective behavior and wireless networks. In my previous work, I combined deep learning with control theory and signal processing to capture complex interactions and design more efficient autonomous systems. I earned my B.Sc. in Computer Engineering from Azad University, Tehran branch, and then I moved to New Jersey to continue my studies. I graduated from Stevens Institute of Technology with an M.Sc. in Software Engineering from the Department of Systems Engineering. After that, I joined Rutgers University - New Brunswick as a master's student in the Department of Statistics to improve and recreate my knowledge in Mathematics and Statistics to help further research during my PhD program. 
 
 ## Contact
 
