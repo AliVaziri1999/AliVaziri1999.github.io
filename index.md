@@ -19,9 +19,9 @@ I’m a motivated researcher with a strong foundation in statistics - data scien
 
 - **<a href="/capstone" target="_blank">Master's Capstone Project: GitHub Chrome Extension</a>** – Developed a Chrome extension (CommitPro) to enhance the GitHub interface, providing additional tools for commit management and improving developer productivity.
 - **<a href="/bci" target="_blank">Research Assistant at Brain-Computer Interface Lab</a>** – Conducted research on EEG signal processing for brain-computer interface (BCI) applications.
-- **<a href="/seclub" target="_blank">Research Assistant at Software Engineering Club</a>** – Built a software solution using an FTDI 245R chipset to convert user input text into visual patterns on an oscilloscope, integrating signal processing with hardware communication techniques.
+- **<a href="/seclub" target="_blank">Summer project at Software Engineering Club</a>** – Built a software solution using an FTDI 245R chipset to convert user input text into visual patterns on an oscilloscope, integrating signal processing with hardware communication techniques.
 - **<a href="/bordbaar" target="_blank">Software Developer Intern at Bordbaar Intelligent Transporters</a>** – Designed and developed a mobile application for on-demand goods and heavy-truck transportation, improving logistics efficiency and fleet management.
-- **<a href="/drone" target="_blank">Drone Optimization Project at Sharif University of Technology</a>** – Developed and optimized algorithmic models for drones using C# on a Linux (Ubuntu) platform to enhance flight performance.
+- **<a href="/drone" target="_blank">Drone optimization Summer project at Sharif University of Technology</a>** – Developed and optimized algorithmic models for drones using C# on a Linux (Ubuntu) platform to enhance flight performance.
 
 ## Publications
 
