@@ -1,12 +1,12 @@
 # Ali Vaziri
 
-Hi, I’m Ali, interested in research that connects data-driven modeling, optimization, and autonomous systems. I focus on building scalable algorithms for robotics and dynamical systems, where I’ve tackled challenges in collective behavior and wireless networks. In my previous work, I combined deep learning with control theory and signal processing to capture complex interactions and design more efficient autonomous systems. I earned my B.Sc. in Computer Engineering from Azad University, Tehran branch, and then I moved to New Jersey to continue my studies. I graduated from Stevens Institute of Technology with an M.Sc. in Software Engineering from the Department of Systems Engineering. After that, I joined Rutgers University - New Brunswick as a master's student in the Department of Statistics to improve and recreate my knowledge in Mathematics and Statistics to help further research during my PhD program. 
+I’m a motivated researcher with a strong foundation in statistics - data science, and software engineering, specializing in AI and optimization. Co-authored papers and developed AI tools, aspiring to pursue a PhD and create efficient, interpretable AI and optimization models for real-world applications. I earned my B.Sc. in Computer Engineering from Azad University, Tehran branch, and then I moved to New Jersey to continue my studies. I graduated from Stevens Institute of Technology with an M.Sc. in Software Engineering from the Department of Systems Engineering. After that, I joined Rutgers University - New Brunswick as a master's student in the Department of Statistics to improve and recreate my knowledge in Mathematics and Statistics to help further research during my PhD program. 
 
 ## Contact
 
-- <a href="/AliVaziri_CV_2025.pdf" download="Ali_Vaziri_CV.pdf">Download CV (PDF)</a>
-- Academic Email: <a href="mailto:alivaziri.academic@gmail.com">alivaziri.academic@gmail.com</a>
-- Career Email: <a href="mailto:alivaziri.career@gmail.com">alivaziri.career@gmail.com</a>
+<!-- - <a href="/AliVaziri_CV_2025.pdf" download="Ali_Vaziri_CV.pdf">Download CV (PDF)</a> -->
+<!-- - Academic Email: <a href="mailto:alivaziri.academic@gmail.com">alivaziri.academic@gmail.com</a> -->
+<!-- - Career Email: <a href="mailto:alivaziri.career@gmail.com">alivaziri.career@gmail.com</a> -->
 - Affiliation Email-Rutgers: <a href="mailto:ali.vaziri@rutgers.edu">ali.vaziri@rutgers.edu</a>
 - Affiliation Email-Stevens: <a href="mailto:avaziri1@stevens.edu">avaziri1@stevens.edu</a>
 - <a href="https://github.com/AliVaziri1999" target="_blank">GitHub</a>
@@ -25,7 +25,7 @@ Hi, I’m Ali, interested in research that connects data-driven modeling, optimi
 
 ## Publications
 
-- <a href="#" target="_blank">Energy-Efficient Secure Cell-Free Massive MIMO for Internet of Things: A Hybrid CNN-LSTM-Based Deep Learning Approach</a> (Published 2025)
+<!-- - <a href="#" target="_blank">Energy-Efficient Secure Cell-Free Massive MIMO for Internet of Things: A Hybrid CNN-LSTM-Based Deep Learning Approach</a> (Published 2025) -->
 <!-- - <a href="#" target="_blank">Identification and Detection of Ferroresonance Phenomenon in Active Distribution Networks Using Long Short-Term Memory Neural Networks Enhanced by Genetic Algorithm</a> (Published 2025) -->
 - <a href="#" target="_blank">A New Algorithm for Indoor Robot Localization using Turning Function</a> (Published 2024)
 - <a href="#" target="_blank">Development of Service Compositions in Cloud Manufacturing Processes Based on System Sustainability Components</a> (Published 2023)
