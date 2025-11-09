@@ -27,11 +27,11 @@ Commit Pro addresses the long-standing issue of poor commit message quality in s
 ## Literature Review
 
 We reviewed tools like CodeScene, GitHub Copilot, and Sourcetrail. However, these either focused on code generation or existed outside developers’ daily workflows. Commit Pro fills the gap by integrating summarization and metrics **inside** GitHub, based on literature around LLM-based code change summarization and neural summarizers.
-
+<!-- ---
 ## My Role: Frontend Developer
 
 I was primarily responsible for building the React dashboard inside the Chrome extension. I developed dynamic charts, integrated backend APIs, and ensured consistent styling and responsiveness. I also helped troubleshoot extension-specific issues and contributed to the final documentation and presentation.
-
+--- -->
 ---
 
 ## Sprint 1: Setup and Routing
